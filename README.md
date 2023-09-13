@@ -1,0 +1,1 @@
+### Exercicios do minicurso de TypeScript
