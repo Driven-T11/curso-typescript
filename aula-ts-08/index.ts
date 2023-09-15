@@ -22,7 +22,7 @@ const game8: Game = {
   launch: "2013-06-14" // pode ser um Date. também pode ser vazio
 }
 
-const games8: GameList = [game];
+const games8: GameList = [game8];
 
 function play(game: Game) {
   // runs the game
